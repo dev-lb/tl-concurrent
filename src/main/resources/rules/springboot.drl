@@ -1,0 +1,7 @@
+package rules
+
+rule springboot
+    when
+    then
+        System.out.println("规则springboot通过!");
+end
